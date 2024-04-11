@@ -1,0 +1,7 @@
+venv
+db.sqlite3
+Gabriel_Avelino/__pycache__
+clinica/__pycache__
+clinica/migrations/__pycache__
+
+.env
